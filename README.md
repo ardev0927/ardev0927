@@ -31,19 +31,19 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
   Published Apps
   </summary>
   <p>
-    <h5 align='left' style='margin: 32px 4px;'>
+    <h5 align='left' style='margin: 4px 16px 4px;'>
         <a href='https://play.google.com/store/apps/details?id=com.SocialNetworkForPatriots.app&hl=en'>Social Networks Conservatives</a>
     </h5>
-    <h5 align='left' style='margin: 32px 4px;'>
+    <h5 align='left' style='margin: 4px 16px 4px;'>
         <a href='https://apps.apple.com/us/app/%D7%98%D7%A8%D7%99%D7%92%D7%95-%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA/id1572175800'>Trigo(iOS)</a>
     </h5>
-    <h5 align='left' style='margin: 32px 4px;'>
+    <h5 align='left' style='margin: 4px 16px 4px;'>
         <a href='https://play.google.com/store/apps/details?id=com.androidtrigo.trigoltd'>Trigo(Android)</a>
     </h5>
-    <h5 align='left' style='margin: 32px 4px;'>
+    <h5 align='left' style='margin: 4px 16px 4px;'>
         <a href='https://apps.apple.com/us/app/funner-apps/id6448954541'>Funner(iOS)</a>
     </h5>
-    <h5 align='left' style='margin: 32px 4px;'>
+    <h5 align='left' style='margin: 4px 16px 4px;'>
         <a href='https://play.google.com/store/apps/details?id=com.funner.funner'>Funner(Android)</a>
     </h5>
   </p>
