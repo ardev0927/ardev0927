@@ -25,7 +25,17 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
 ----
   
 </p>
-<!-- </details> -->
+<!-- Published apps -->
+<details open='true'>
+  <summary>
+  Published Apps
+  </summary>
+  <p>
+    <h3 align='left' style='margin: 16px 4px;'>
+        <a href='https://play.google.com/store/apps/details?id=com.SocialNetworkForPatriots.app&hl=en'>Social Network For Patriots</a>
+    </h3>
+  </p>
+</details>
 
 <!-- Tech Stack -->  
 <details open='true'>
@@ -68,7 +78,7 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
     <h2>Comming Soon</h2>
     <!-- <a href='https://github.com/ardev0927/portfolio'> -->
     <a href='/#'>
-        <img height='300px' src="./assets/portfoliosite.png" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer from China." />
+        <img height='300px' src="./assets/portfoliosite.png" />
     </a>
   </p>
 </details>
@@ -89,11 +99,5 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
   </a>
 </p>
 <br/>
-
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
 
 ![footer](assets/footer.webp)
