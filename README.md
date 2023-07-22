@@ -48,9 +48,7 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
     </h5>
   </p>
 </details>
-----
-  
-</p>
+
 <!-- Tech Stack -->  
 <details open='true'>
   <summary><b>🛠️ Technologies</b></summary>  
