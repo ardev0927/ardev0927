@@ -98,7 +98,7 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
 
 <h3>
   Connect With Me
-  <img src="assets/Handshake.gif" height="25px">
+  <img src="assets/Handshake.gif">
 </h3>
 
 <p align="center">
