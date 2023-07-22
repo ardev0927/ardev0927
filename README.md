@@ -10,7 +10,7 @@
 <p>      
 <!-- <blockquote> -->
 
-✅ HIGH skilled, 🚀HIGH speed and 🌟HIGH motivated Web/Mobile developer with over 8 years of experience.
+✅ HIGH skilled, 🚀HIGH speed and 🌟HIGH motivated Flutter developer with over 4 years of experience.
 
 I’m industrious, hard-working, an excellent team worker and collaborator, and I can easily prioritize tasks to ensure my employer’s goals are always achieved. 
 
@@ -18,7 +18,7 @@ I have experience working on time sensitive projects, dealing with difficult cha
 
 I'm the type of person who always goes above and beyond what is expected, and I will willingly carry out duties outside of my job description.
 
-When I'm not at the keyboard, I like sports, photography and hanging out with friends.
+When I'm not at the keyboard, I like soccer, music and hanging out with friends.
 
 <!-- </blockquote> -->
     
@@ -29,7 +29,7 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 
 <!-- Tech Stack -->  
 <details open='true'>
-  <summary><b>🛠️ Tech Stack</b></summary>
+  <summary><b>🛠️ Technologies</b></summary>
   <img align="right" height="300px" width="300px" style='margin-top:120px;'  alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
   <br/>
   <br/>
@@ -108,30 +108,6 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
   </a>
 </p>
 
-
-<!-- Recent Activity -->
-<details>
-  <summary><b>⚡ Recent Activity</b></summary>
-    <p>
-            
-<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=galaxydeve' alt='Astro Dab'></a>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-➡️  **[More Activity](/RECENT-ACTIVITY.md)**
-
-----
-
-</p>
-</details>
-
-<!-- Snek -->   
-<p align="center">
-<a href="https://gitstar-ranking.com/galaxydeve" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/github-snake.svg" /></a>
-</p>
-
 <h1>
   Connect With Me
   <img src="assets/gif/Handshake.gif" height="25px">
@@ -139,17 +115,11 @@ When I'm not at the keyboard, I like sports, photography and hanging out with fr
 
 <p align="center">
   <br>
-  <a href="https://join.skype.com/invite/vK5x86V7SlqU" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/icons/skype.png"/></code>
+  <a href="https://join.skype.com/invite/t78iAUl7osGW" target="_blank" style='margin: 30px 10px;'>
+    <code><img height="60" width="60" src="assets/icons/skype_logo.png"/></code>
   </a>
-  <a href="https://discord.gg/yHHm8u4f" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/icons/discord.png"/></code>
-  </a>
-  <a href="mailto:galaxyaio@hotmail.com" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/icons/email.png"/></code>
-  </a>
-  <a href="mailto:ar.dev0927@gmail.com" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/icons/gmail.png"/></code>
+  <a href="https://t.me/aryandev0927" target="_blank" style='margin: 30px 10px;'>
+    <code><img height="60" width="60" src="assets/icons/telegram_logo.png"/></code>
   </a>
 </p>
 <br/>
