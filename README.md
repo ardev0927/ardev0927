@@ -96,10 +96,10 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
 </details>
         
 
-<h3>
-  Connect With Me
+<h1>
+  Connect with me
   <img src="assets/Handshake.gif">
-</h3>
+</h1>
 
 <p align="center">
   <br>
