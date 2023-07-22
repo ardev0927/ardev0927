@@ -73,40 +73,6 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
   </p>
 </details>
         
-<!-- Metrics -->
-<details>
-  <summary><b>📊 Metrics</b></summary>
-    <p>   
-
-| [![General Stats](https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/summary.svg)](https://github.com/galaxydeve/galaxydeve/blob/master/METRICS.md) | [![Stargazer Stats](https://raw.githubusercontent.com/galaxydeve/galaxydeve/master/assets/metrics/stargazers.svg)](https://github.com/galaxydeve/galaxydeve/blob/master/METRICS.md) |
-| - | - |
-
-**[➡️ More Metrics](/METRICS.md)**
-
-</p>
-</details>
-
-
-<p align="center"><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galaxydeve&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=galaxydeve&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br><br><br><br> 
-
-<!-- when organization appears you can change the cloumn number as 8  -->
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=galaxydeve&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" />
-</p>
-
-<!-- [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/galaxydeve) -->
-
-<!-- ![](https://github-profile-trophy.vercel.app/?username=galaxydeve&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh) -->
-
-<p align="center">
-  <a>
-    <img height="120" width="150" src="https://github.com/snowMan108/snowMan108/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galaxydeve&theme=dark&hide_border=true"/>
-    <img height="120" width="150" src="https://github.com/snowMan108/snowMan108/blob/main/right.png">
-  </a>
-</p>
 
 <h1>
   Connect With Me
@@ -116,10 +82,10 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
 <p align="center">
   <br>
   <a href="https://join.skype.com/invite/t78iAUl7osGW" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/icons/skype_logo.png"/></code>
+    <code><img height="60" width="60" src="assets/skype_logo.png"/></code>
   </a>
   <a href="https://t.me/aryandev0927" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/icons/telegram_logo.png"/></code>
+    <code><img height="60" width="60" src="assets/telegram_logo.png"/></code>
   </a>
 </p>
 <br/>
