@@ -73,27 +73,6 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
 </details>
 
 
-<!-- Portfolio Section -->
-<details open='true'>
-  <summary>
-  My Portfolio Website
-  </summary>
-  <p>
-    <!-- <h3 align='left' style='margin: 16px 4px;'>
-        <a href='https://github.com/ardev0927/portfolio'>Please click here to navigate my portfolio website</a>
-    </h3>
-    <h3 align='left' style='margin: 16px 4px;'>
-        This portfolio website was built with React.js, Next.js and used Contentful as CMS.
-    </h3> -->
-    <h2>Comming Soon</h2>
-    <!-- <a href='https://github.com/ardev0927/portfolio'> -->
-    <a href='/#'>
-        <img height='300px' src="./assets/portfoliosite.png" />
-    </a>
-  </p>
-</details>
-        
-
 <h1>
   Connect with me
   <img src="assets/Handshake.gif">
