@@ -73,10 +73,10 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
 </details>
 
 
-<h1>
-  Connect with me
+<h3>
+  Connect with me.
   <img src="assets/Handshake.gif">
-</h1>
+</h3>
 
 <p align="center">
   <br>
