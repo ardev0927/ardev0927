@@ -81,10 +81,10 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
 <p align="center">
   <br>
   <a href="https://join.skype.com/invite/t78iAUl7osGW" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/skype_logo.png"/></code>
+    <code><img height="30" width="30" src="assets/skype_logo.png"/></code>
   </a>
   <a href="https://t.me/aryandev0927" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="60" width="60" src="assets/telegram_logo.png"/></code>
+    <code><img height="30" width="30" src="assets/telegram_logo.png"/></code>
   </a>
 </p>
 <br/>
