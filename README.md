@@ -84,7 +84,7 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
     <code><img height="30" width="30" src="assets/skype_logo.png"/></code>
   </a>
   <a href="https://t.me/aryandev0927" target="_blank" style='margin: 30px 10px;'>
-    <code><img height="30" width="30" src="assets/telegram_logo.png"/></code>
+    <code><img height="40" width="40" src="assets/telegram_logo.png"/></code>
   </a>
 </p>
 <br/>
