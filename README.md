@@ -28,7 +28,7 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
 <!-- Published apps -->
 <details open='true'>
   <summary>
-  Published Apps
+  Recently published Apps
   </summary>
   <p>
     <h5 align='left' style='margin: 4px 4px;'>
