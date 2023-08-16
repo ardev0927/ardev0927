@@ -10,7 +10,7 @@
 <p>      
 <!-- <blockquote> -->
 
-✅ HIGH skilled, 🚀HIGH speed and 🌟HIGH motivated Flutter developer with over 4 years of experience.
+✅ HIGH skilled, 🚀HIGH speed and 🌟HIGH motivated Flutter developer with over 4+ years of experience.
 
 I’m industrious, hard-working, an excellent team worker and collaborator, and I can easily prioritize tasks to ensure my employer’s goals are always achieved. 
 
