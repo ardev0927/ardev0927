@@ -5,7 +5,7 @@
 <!-- About Section -->
 <!-- <details> -->
   <!-- <summary> -->
-<b>👤 About</b>
+<b>👤 About </b>
   <!-- </summary> -->
 <p>      
 <!-- <blockquote> -->
