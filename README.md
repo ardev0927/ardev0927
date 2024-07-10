@@ -67,7 +67,7 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
 **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
 **Editors** | [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
       
- <!-- See **[➡️ Full Tech Stack](https://github.com/galaxydeve/galaxydeve/blob/master/TECH-STACK.md)**, for a list of projects using each of the above technologies -->
+ <!-- See **[➡️ Full Tech Stack](https://github.com/ardev0927/ardev0927/blob/master/TECH-STACK.md)**, for a list of projects using each of the above technologies -->
 ----      
   </p>
 </details>
