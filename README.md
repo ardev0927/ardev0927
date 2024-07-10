@@ -10,7 +10,7 @@
 <p>      
 <!-- <blockquote> -->
 
-✅ HIGH skilled, 🚀HIGH speed and 🌟HIGH motivated Flutter developer with over 4+ years of experience.
+✅ HIGH skilled, 🚀HIGH speed and 🌟HIGH motivated Flutter developer with over 5+ years of experience.
 
 I’m industrious, hard-working, an excellent team worker and collaborator, and I can easily prioritize tasks to ensure my employer’s goals are always achieved. 
 
@@ -32,7 +32,10 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
   </summary>
   <p>
     <h5 align='left' style='margin: 4px 4px;'>
-        <a href='https://play.google.com/store/apps/details?id=com.SocialNetworkForPatriots.app&hl=en'>Social Networks Conservatives</a>
+        <a href='https://apps.apple.com/us/app/funner-apps/id6448954541'>Funner(iOS)</a>
+    </h5>
+    <h5 align='left' style='margin: 4px 4px;'>
+        <a href='https://play.google.com/store/apps/details?id=com.funner.funner'>Funner(Android)</a>
     </h5>
     <h5 align='left' style='margin: 4px 4px;'>
         <a href='https://apps.apple.com/us/app/%D7%98%D7%A8%D7%99%D7%92%D7%95-%D7%9C%D7%A7%D7%95%D7%97%D7%95%D7%AA/id1572175800'>Trigo(iOS)</a>
@@ -41,10 +44,7 @@ When I'm not at the keyboard, I like soccer, music and hanging out with friends.
         <a href='https://play.google.com/store/apps/details?id=com.androidtrigo.trigoltd'>Trigo(Android)</a>
     </h5>
     <h5 align='left' style='margin: 4px 4px;'>
-        <a href='https://apps.apple.com/us/app/funner-apps/id6448954541'>Funner(iOS)</a>
-    </h5>
-    <h5 align='left' style='margin: 4px 4px;'>
-        <a href='https://play.google.com/store/apps/details?id=com.funner.funner'>Funner(Android)</a>
+        <a href='https://play.google.com/store/apps/details?id=com.SocialNetworkForPatriots.app&hl=en'>Social Networks Conservatives</a>
     </h5>
   </p>
 </details>
